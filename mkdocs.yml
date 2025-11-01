@@ -12,12 +12,30 @@ theme:
 nav:
   - Home: index.md
   - OE Logic:
-      - Math:
-          - ABS: OE LOGIC/MATH/ABS.md
-          # Add more Math blocks here
-      - Gates:
+        - Communication: OE LOGIC/COMMUNICATION/Placeholder.md
+        - Converter: OE LOGIC/CONVERTER/Placeholder.md
+          - Byte: OE LOGIC/CONVERTER/Byte.md
+          - Color: OE LOGIC/CONVERTER/Color.md
+          - Units: OE LOGIC/CONVERTER/Units.md
+          - Vector: OE LOGIC/CONVERTER/Vector.md
+        - Display: OE LOGIC/DISPLAY/Placeholder.md
+          - Lamps: OE LOGIC/DISPLAY/Placeholder.md
+        - Gates: OE LOGIC/GATES/Placeholder.md
           - AND: OE LOGIC/GATES/AND.md
           # Add more Gates blocks here
+        - GUI:OE LOGIC/GUI/Placeholder.md
+        - Math: 
+          - ABS: OE LOGIC/MATH/ABS.md
+          # Add more Math blocks here
+          - Byte: OE LOGIC/MATH/Byte.md
+          - Trigonometry: OE LOGIC/MATH/Trigonometry.md
+        - Memory: OE LOGIC/MEMORY/Placeholder.md
+        - Other: OE LOGIC/OTHER/Placeholder.md
+        - Particle: OE LOGIC/PARTICLE/Placeholder.md
+        - Sensor: OE LOGIC/SENSOR/Placeholder.md
+        - Sound: OE LOGIC/SOUND/Placeholder.md
+        - String: OE LOGIC/STRING/Placeholder.md
+
 extra:
   social:
     - icon: fontawesome/brands/github
