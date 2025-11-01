@@ -21,8 +21,8 @@ nav:
         - Display:
           - Lamps: OE LOGIC/DISPLAY/Placeholder.md
         - Gates:
-          - AND: OE LOGIC/GATES/AND.md
-          - XNOR: OE LOGIC/GATES/XNOR.md
+          - AND: "OE LOGIC/GATES/AND.md"
+          - XNOR: "OE LOGIC/GATES/XNOR.md"
           # Add more Gates blocks here
         - GUI: OE LOGIC/GUI/Placeholder.md
         - Math: 
