@@ -2,7 +2,6 @@
 
 ![ABS Block](../../images/ABS.png)
 
-
 **Category:** OE Logic > Math
 
 **Description:** Removes the minus sign from your number.
@@ -16,5 +15,6 @@
 - vector (same type as inputs)
 
 **Example:**  
+
 - -5 -> 5  
 - (-2,5,-7) -> (2,5,7)
