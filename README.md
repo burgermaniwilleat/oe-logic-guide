@@ -1,3 +1,1 @@
-﻿# Placeholder
-
-Content coming soon.
+https://space-cee.github.io/oe-logic-guide/
