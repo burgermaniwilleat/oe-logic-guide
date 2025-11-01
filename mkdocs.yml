@@ -25,7 +25,7 @@ nav:
           # Add more Gates blocks here
         - GUI:OE LOGIC/GUI/Placeholder.md
         - Math: 
-          - ABS: OE LOGIC/MATH/ABS.md
+          - ABS: "OE LOGIC/MATH/ABS.md"
           # Add more Math blocks here
           - Byte: OE LOGIC/MATH/Byte.md
           - Trigonometry: OE LOGIC/MATH/Trigonometry.md
