@@ -15,6 +15,6 @@
 - number  
 - vector (same type as inputs)
 
-**Example:**
+**Example:**  
 - -5 -> 5  
 - (-2,5,-7) -> (2,5,7)
