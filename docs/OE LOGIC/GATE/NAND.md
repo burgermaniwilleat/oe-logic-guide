@@ -1,6 +1,6 @@
 # NAND Gate
 
-![OR Block](../../images/NAND.png)
+![NAND Block](../../images/NAND.png)
 
 **Category:** OE Logic > Gates
 
