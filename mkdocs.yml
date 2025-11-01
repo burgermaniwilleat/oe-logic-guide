@@ -24,6 +24,7 @@ nav:
           - AND: "OE LOGIC/GATE/AND.md"
           - XNOR: "OE LOGIC/GATE/XNOR.md"
           - OR: "OE LOGIC/GATE/OR.md"
+          - NOT: "OE LOGIC/GATE/NOT.md"
           # Add more Gates blocks here
         - GUI: OE LOGIC/GUI/Placeholder.md
         - Math: 
