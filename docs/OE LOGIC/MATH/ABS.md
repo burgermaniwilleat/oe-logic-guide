@@ -1,6 +1,7 @@
 # ABS
 
-![ABS Block](/images/ABS.png)
+![ABS Block](../../images/ABS.png)
+
 
 **Category:** OE Logic > Math
 
