@@ -24,6 +24,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Block Data: json-viewer.md
   - OE Logic:
         - Communication: OE LOGIC/COMMUNICATION/Placeholder.md
         - Converter:
