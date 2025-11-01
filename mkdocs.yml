@@ -12,13 +12,29 @@ theme:
 nav:
   - Home: index.md
   - OE Logic:
-      - Math:
+        - Communication:
+        - Converter:
+          - Byte:
+          - Color:
+          - Units:
+          - Vector:
+        - Display:
+          - Lamps:
+        - Gates:
+          - AND:
+          # Add more Gates blocks here
+        - GUI:
+        - Math:
           - ABS: OE LOGIC/MATH/ABS.md
           # Add more Math blocks here
-      - Gates:
-          - AND: OE LOGIC/GATES/AND.md
-          - OR: OE LOGIC/GATES/OR.md
-          # Add more Gates blocks here
+          - Byte:
+          - Trigonometry:
+        - Memory:
+        - Other:
+        - Particle:
+        - Sensor:
+        - Sound:
+        - String:
 
 extra:
   social:
