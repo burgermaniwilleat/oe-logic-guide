@@ -2,6 +2,19 @@ site_name: OE Logic Guide
 site_url: https://space-cee.github.io/oe-logic-guide/
 theme:
   name: material
+  palette:
+    - scheme: slate       # Dark mode by default
+      primary: indigo     # You can pick another main color (e.g. teal, amber, deep purple)
+      accent: pink
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default     # Optional light mode
+      primary: indigo
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
   features:
     - navigation.expand      # collapsible categories in sidebar
     - navigation.instant     # sidebar highlights current page
