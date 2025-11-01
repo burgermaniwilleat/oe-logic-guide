@@ -20,3 +20,5 @@
 | 0       | 1       | 0      |
 | 1       | 0       | 0      |
 | 1       | 1       | 0      |
+
+Logically equivalent to an OR gate with a NOT after it.
