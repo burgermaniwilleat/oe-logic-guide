@@ -1,20 +1,26 @@
-site_name: OE Logic Wiki
+site_name: OE Logic Guide
+site_url: https://space-cee.github.io/oe-logic-guide/
 theme:
   name: material
   features:
-    - navigation.instant       # sidebar updates instantly while scrolling
-    - navigation.expand        # collapsible categories in sidebar
+    - navigation.expand      # collapsible categories in sidebar
+    - navigation.instant     # sidebar highlights current page
     - search.highlight
+    - search.suggest
+    - toc.integrate          # integrate table of contents into sidebar
+
 nav:
   - Home: index.md
   - OE Logic:
       - Math:
           - ABS: OE LOGIC/MATH/ABS.md
-          - Add: OE LOGIC/MATH/Add.md
-          - Multiply: OE LOGIC/MATH/Multiply.md
-      - Compare:
-          - Equal: OE LOGIC/COMPARE/Equal.md
-          - GreaterThan: OE LOGIC/COMPARE/GreaterThan.md
-      - Boolean:
-          - AND: OE LOGIC/BOOLEAN/AND.md
-          - OR: OE LOGIC/BOOLEAN/OR.md
+          # Add more Math blocks here
+      - Gates:
+          - AND: OE LOGIC/GATES/AND.md
+          - OR: OE LOGIC/GATES/OR.md
+          # Add more Gates blocks here
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/space-cee/oe-logic-guide
