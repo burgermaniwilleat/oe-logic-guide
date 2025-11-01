@@ -1,3 +1,3 @@
-# Byte
+﻿# Placeholder
 
-Placeholder page for Byte converter. Add content here.
+Content coming soon.

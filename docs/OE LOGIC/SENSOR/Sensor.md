@@ -1,3 +1,3 @@
-# Sensor
+﻿# Placeholder
 
-Placeholder page for Sensor. Add content here.
+Content coming soon.

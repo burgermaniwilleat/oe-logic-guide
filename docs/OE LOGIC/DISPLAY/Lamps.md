@@ -1,3 +1,3 @@
-# Lamps
+﻿# Placeholder
 
-Placeholder page for Lamps display. Add content here.
+Content coming soon.

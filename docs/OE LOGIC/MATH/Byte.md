@@ -1,3 +1,3 @@
-# Byte (Math)
+﻿# Placeholder
 
-Placeholder page for Byte math functions. Add content here.
+Content coming soon.

@@ -1,3 +1,3 @@
-# OE Logic Wiki
+﻿# Placeholder
 
-Welcome! If you can read this, MkDocs is working.
+Content coming soon.

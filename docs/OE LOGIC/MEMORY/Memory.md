@@ -1,3 +1,3 @@
-# Memory
+﻿# Placeholder
 
-Placeholder page for Memory. Add content here.
+Content coming soon.

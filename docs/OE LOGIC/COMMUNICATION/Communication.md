@@ -1,3 +1,3 @@
-# Communication
+﻿# Placeholder
 
-Placeholder page for Communication. Add content here.
+Content coming soon.

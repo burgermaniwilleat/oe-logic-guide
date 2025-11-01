@@ -1,3 +1,3 @@
-# Vector
+﻿# Placeholder
 
-Placeholder page for Vector converter. Add content here.
+Content coming soon.

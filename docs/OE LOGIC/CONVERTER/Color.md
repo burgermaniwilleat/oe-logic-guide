@@ -1,3 +1,3 @@
-# Color
+﻿# Placeholder
 
-Placeholder page for Color converter. Add content here.
+Content coming soon.

@@ -1,3 +1,3 @@
-# String
+﻿# Placeholder
 
-Placeholder page for String. Add content here.
+Content coming soon.

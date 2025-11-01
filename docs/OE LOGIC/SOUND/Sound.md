@@ -1,3 +1,3 @@
-# Sound
+﻿# Placeholder
 
-Placeholder page for Sound. Add content here.
+Content coming soon.

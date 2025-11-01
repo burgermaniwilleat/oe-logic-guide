@@ -1,3 +1,3 @@
-# Trigonometry
+﻿# Placeholder
 
-Placeholder page for Trigonometry. Add content here.
+Content coming soon.

@@ -1,3 +1,3 @@
-# Other
+﻿# Placeholder
 
-Placeholder page for Other. Add content here.
+Content coming soon.

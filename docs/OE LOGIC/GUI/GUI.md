@@ -1,3 +1,3 @@
-# GUI
+﻿# Placeholder
 
-Placeholder page for GUI. Add content here.
+Content coming soon.
