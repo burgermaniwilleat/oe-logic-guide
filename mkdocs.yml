@@ -13,14 +13,14 @@ nav:
   - Home: index.md
   - OE Logic:
         - Communication: OE LOGIC/COMMUNICATION/Placeholder.md
-        - Converter: OE LOGIC/CONVERTER/Placeholder.md
+        - Converter:
           - Byte: OE LOGIC/CONVERTER/Byte.md
           - Color: OE LOGIC/CONVERTER/Color.md
           - Units: OE LOGIC/CONVERTER/Units.md
           - Vector: OE LOGIC/CONVERTER/Vector.md
-        - Display: OE LOGIC/DISPLAY/Placeholder.md
+        - Display:
           - Lamps: OE LOGIC/DISPLAY/Placeholder.md
-        - Gates: OE LOGIC/GATES/Placeholder.md
+        - Gates:
           - AND: OE LOGIC/GATES/AND.md
           # Add more Gates blocks here
         - GUI:OE LOGIC/GUI/Placeholder.md
