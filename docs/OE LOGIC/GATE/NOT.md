@@ -1,6 +1,7 @@
 # NOT Gate
 
-(insert image here)
+![NOT Block](../../images/NOT.png)
+
 
 **Category:** OE Logic > Gates
 
