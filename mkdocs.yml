@@ -1,0 +1,20 @@
+site_name: OE Logic Wiki
+theme:
+  name: material
+  features:
+    - navigation.instant       # sidebar updates instantly while scrolling
+    - navigation.expand        # collapsible categories in sidebar
+    - search.highlight
+nav:
+  - Home: index.md
+  - OE Logic:
+      - Math:
+          - ABS: OE LOGIC/MATH/ABS.md
+          - Add: OE LOGIC/MATH/Add.md
+          - Multiply: OE LOGIC/MATH/Multiply.md
+      - Compare:
+          - Equal: OE LOGIC/COMPARE/Equal.md
+          - GreaterThan: OE LOGIC/COMPARE/GreaterThan.md
+      - Boolean:
+          - AND: OE LOGIC/BOOLEAN/AND.md
+          - OR: OE LOGIC/BOOLEAN/OR.md
