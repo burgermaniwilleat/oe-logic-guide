@@ -25,37 +25,6 @@ theme:
 nav:
   - Home: index.md
   - Block Data: json-viewer.md
-  - OE Logic:
-        - Communication: OE LOGIC/COMMUNICATION/Placeholder.md
-        - Converter:
-          - Byte: OE LOGIC/CONVERTER/Byte.md
-          - Color: OE LOGIC/CONVERTER/Color.md
-          - Units: OE LOGIC/CONVERTER/Units.md
-          - Vector: OE LOGIC/CONVERTER/Vector.md
-        - Display:
-          - Lamps: OE LOGIC/DISPLAY/Placeholder.md
-        - Gates:
-          - AND: "OE LOGIC/GATE/AND.md"
-          - XNOR: "OE LOGIC/GATE/XNOR.md"
-          - OR: "OE LOGIC/GATE/OR.md"
-          - NOT: "OE LOGIC/GATE/NOT.md"
-          - XOR: "OE LOGIC/GATE/XOR.md"
-          - NAND: "OE LOGIC/GATE/NAND.md"
-          - NOR: "OE LOGIC/GATE/NOR.md"
-          # Add more Gates blocks here
-        - GUI: OE LOGIC/GUI/Placeholder.md
-        - Math: 
-          - ABS: "OE LOGIC/MATH/ABS.md"
-          - ADD: "OE LOGIC/MATH/ADD.md"
-          # Add more Math blocks here
-          - Byte: OE LOGIC/MATH/Byte.md
-          - Trigonometry: OE LOGIC/MATH/Trigonometry.md
-        - Memory: OE LOGIC/MEMORY/Placeholder.md
-        - Other: OE LOGIC/OTHER/Placeholder.md
-        - Particle: OE LOGIC/PARTICLE/Placeholder.md
-        - Sensor: OE LOGIC/SENSOR/Placeholder.md
-        - Sound: OE LOGIC/SOUND/Placeholder.md
-        - String: OE LOGIC/STRING/Placeholder.md
 
 extra:
   social:
