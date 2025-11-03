@@ -20,6 +20,7 @@
 **Simulation:**  
 
 **Number/Byte State:**
+
 |  State  | Output |
 |---------|--------|
 |   ≤ 0   | False input |
@@ -28,7 +29,8 @@
 
 
 **Bool State:**
+
 |  State  | Output |
 |---------|--------|
-|   False   | False input |
-|   True   | True input |
+|   False | False input |
+|   True  | True input |
