@@ -42,6 +42,7 @@ nav:
           - XOR: "OE LOGIC/GATE/XOR.md"
           - NAND: "OE LOGIC/GATE/NAND.md"
           - NOR: "OE LOGIC/GATE/NOR.md"
+          - Multiplexer: "OE LOGIC/GATE/Multiplexer.md"
           # Add more Gates blocks here
         - GUI: OE LOGIC/GUI/Placeholder.md
         - Math: 
