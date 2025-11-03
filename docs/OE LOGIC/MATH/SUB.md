@@ -1,10 +1,10 @@
-# ADD (Addition)
+# SUB (Subtraction)
 
-![ADD Block](../../images/ADD.png)
+![SUB Block](../../images/SUB.png)
 
 **Category:** OE Logic > Math  
 
-**Description:** Adds values together.  
+**Description:** Subtracs the second value from the first.  
 
 **Input types:**  
 - number  
@@ -15,6 +15,6 @@
 - vector (same type as inputs)  
 
 **Examples:**  
-- `3 + 4 = 7`  
-- `(10, 20, 13) + (5, 3, 7) = (15, 23, 20)`  
-- `-5 + 3 = 2`
+- `3 - 4 = -1`  
+- `(10, 20, 13) - (5, 3, 7) = (5, 17, 6)`  
+- `-5 - 3 = -8`

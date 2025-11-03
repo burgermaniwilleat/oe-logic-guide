@@ -1,4 +1,4 @@
-﻿# ABS
+﻿# ABS (Absolute)
 
 ![ABS Block](../../images/ABS.png)
 
@@ -14,7 +14,6 @@
 - number  
 - vector (same type as inputs)
 
-**Example:**  
-
-- -5 -> 5  
-- (-2,5,-7) -> (2,5,7)
+**Examples:**  
+- `-5 -> 5`  
+- `(-2,5,-7) -> (2,5,7)`

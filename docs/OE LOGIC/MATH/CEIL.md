@@ -1,10 +1,10 @@
-# ADD (Addition)
+# CEIL (Ceiling)
 
-![ADD Block](../../images/ADD.png)
+![CEIL Block](../../images/CEIL.png)
 
 **Category:** OE Logic > Math  
 
-**Description:** Adds values together.  
+**Description:** Rounds input numbers up.  
 
 **Input types:**  
 - number  
@@ -15,6 +15,6 @@
 - vector (same type as inputs)  
 
 **Examples:**  
-- `3 + 4 = 7`  
-- `(10, 20, 13) + (5, 3, 7) = (15, 23, 20)`  
-- `-5 + 3 = 2`
+- `-5.43 → -5`  
+- `3.5 → 4`  
+- `(10.4, -20.6, 13.5) → (11, -20, 14)`

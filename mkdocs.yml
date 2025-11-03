@@ -47,7 +47,9 @@ nav:
         - GUI: OE LOGIC/GUI/Placeholder.md
         - Math: 
           - ABS: "OE LOGIC/MATH/ABS.md"
+          - CEIL: "OE LOGIC/MATH/CEIL.md"
           - ADD: "OE LOGIC/MATH/ADD.md"
+          - SUB: "OE LOGIC/MATH/SUB.md"
           # Add more Math blocks here
           - Byte: OE LOGIC/MATH/Byte.md
           - Trigonometry: OE LOGIC/MATH/Trigonometry.md

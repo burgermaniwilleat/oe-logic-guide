@@ -1,4 +1,4 @@
-# Multiplexer
+# Multiplexer (MUX)
 
 ![Multiplexer Block](../../images/Multiplexer.png)
 
