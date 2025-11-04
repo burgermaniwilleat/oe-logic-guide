@@ -15,9 +15,9 @@
 - vector (same type as inputs)  
 
 **Examples:**  
-- `-5/3 = 1.667`
-- `10/2 = 5`
+- `-5/3 = 1.667`  
+- `10/2 = 5`  
 - `8/0 = UNDEFINED`  
-- `(10, 20, 13) + (5, -3, 7) = (2, -6.667, 1.857)`  
+- `(10, 20, 13) + (5, -3, 7) = (2, -6.667, 1.857)`
 
 **Tip:** Dividing by 0 will result in undefined, setting the block on fire.
