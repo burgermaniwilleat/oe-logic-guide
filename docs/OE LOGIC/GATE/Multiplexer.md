@@ -1,6 +1,6 @@
 # Multiplexer (MUX)
 
-![Multiplexer Block](../../images/Multiplexer.png)
+![Multiplexer Block](../../images/Multiplexer.gif)
 
 **Category:** OE Logic > Gates
 
